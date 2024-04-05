@@ -1,8 +1,7 @@
 # 12+ Hour MERN Masterclass: Build and Deploy a Threads App with Real-Time Chat Functionality
 
-![Demo App](https://i.ibb.co/BnGdh10/Group-62.png)
+![Screenshot 2024-04-05 123512](https://github.com/AMAN-CREATION/mern-stack-thread-clone/assets/67109574/5d2fc163-1783-4ff5-aa2b-d6c44595a4cf)
 
-[Video Tutorial on Youtube](https://youtu.be/G4V4xO9wyD8)
 
 Feature List:
 
@@ -32,14 +31,8 @@ CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 ```
 
-### Build the app
 
-```shell
-npm run build
-```
 
-### Start the app
 
-```shell
-npm start
-```
+
+  
