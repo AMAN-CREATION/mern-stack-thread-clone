@@ -1,4 +1,4 @@
-# 12+ Hour MERN Masterclass: Build and Deploy a Threads App with Real-Time Chat Functionality
+# 🚀 Thread Clone Project Showcase 🧵
 
 ![Screenshot 2024-04-05 123512](https://github.com/AMAN-CREATION/mern-stack-thread-clone/assets/67109574/5d2fc163-1783-4ff5-aa2b-d6c44595a4cf)
 
